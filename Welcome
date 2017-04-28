@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(void)
+{
+	printf(" Welcome to group 19!!!\n");
+	printf(" Programming is fun.\n");
+	printf(" Let's enjoy coding together.\n");
+	printf(" Do our best and achieve our goal.\n");
+
+	getchar();
+}
