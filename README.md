@@ -1,2 +1,0 @@
-# Phipop
-Programming is fun :)
